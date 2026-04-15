@@ -123,9 +123,9 @@ Visualizations created:
 
 To explore this project:
 
-1.Import the dataset into MySQL database.
-2.Execute the provided SQL queries for analysis.
-3.Open Power BI to view the simple dashboard.
-4.Analyze visualizations for insights.
+1. Import the dataset into MySQL database.
+2. Execute the provided SQL queries for analysis.
+3. Open Power BI to view the simple dashboard.
+4. Analyze visualizations for insights.
 
 No additional tools are required beyond **MySQL and Power BI**.
